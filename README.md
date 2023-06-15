@@ -1,5 +1,7 @@
 # :japanese_castle: React-Three-Next starter
 
+Added a navbar and other adjustments to the original repo: https://github.com/pmndrs/react-three-next
+
 A minimalist starter for NextJS, @react-three/fiber and Threejs.
 
 This starter allows you to navigate seamlessly between pages with dynamic dom and/or canvas content without reloading or creating a new canvas every time. 3D components are usable anywhere in the dom. The events, dom, viewport, everything is synchronized!
